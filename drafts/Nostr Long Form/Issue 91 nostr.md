@@ -96,9 +96,9 @@ _Supporting this week's issue…_
 
 Reply to claim the sats. 
 
-**Bonus:** Solve in 10 minutes for double sats. Last Week's Winner: 
+**Bonus:** Solve in 10 minutes for double sats. 
 
-**Nick Morris** - solved "MINED ENERGY".
+Last Week's Winner: **Nick Morris** - solved "MINED ENERGY".
 
 * * *
 
