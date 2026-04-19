@@ -98,7 +98,8 @@ Reply to claim the sats.
 
 **Bonus:** Solve in 10 minutes for double sats. Last Week's Winner: 
 
-**Nick Morris** -- solved "MINED ENERGY".
+**Nick Morris** - solved "MINED ENERGY".
+
 * * *
 
 ### 🧭 On the Radar
@@ -116,13 +117,13 @@ Reply to claim the sats.
 
 Join Ireland's premier Bitcoin event at **The Green Isle Hotel** for three days of keynotes, panels, workshops, and exhibitions covering adoption, regulation, mining, ETFs, and more. Network with world-class speakers, authors, and fellow enthusiasts, with family-friendly activities throughout. **Early Bird tickets are 50% off**, and Whale Pass holders gain access to an exclusive networking trip on May 25. Use code **BEUK for an extra 10% off!** Don't miss this chance to dive deep into the future of Bitcoin in Ireland and beyond.
 
-[![](https://substackcdn.com/image/fetch/$s_!3j4R!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6766166-987c-4012-8d04-76550fec980d_1500x500.png)
+![](https://substackcdn.com/image/fetch/$s_!3j4R!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6766166-987c-4012-8d04-76550fec980d_1500x500.png)
 
 #### 🍕 [Pizza Day 2026 -- Bury St Edmunds, May 22](https://www.bsebtc.co.uk/?ref=SIMON)
 
 Celebrate the **first-ever Bitcoin transaction**! Join a full day of meet-ups across Bury St Edmunds supporting local Bitcoin-accepting businesses, with coffee at Alema, steak at Meat & Greet, chilli scones at Procopio's Pantry and cocktails at Verve. The day finishes at the historic **Guildhall** for an evening of free pizza, drinks, a pop-up market and debates with leading UK Bitcoin voices. Tickets **£39** (Bitcoin preferred). Don't miss this iconic slice of Bitcoin history.
 
-[![](https://substackcdn.com/image/fetch/$s_!EFJQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94db6b80-330c-4cae-b11e-f6985e39d81e_1500x552.png)
+![](https://substackcdn.com/image/fetch/$s_!EFJQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94db6b80-330c-4cae-b11e-f6985e39d81e_1500x552.png)
 
 * * *
 
