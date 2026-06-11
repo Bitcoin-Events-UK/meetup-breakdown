@@ -1,55 +1,49 @@
-# Meetup Breakdown Newsletter
+# Bitcoin Events UK Meetup Breakdown
 
-Newsletter drafts for Bitcoin Events UK — each edition lives here until published to Substack.
+A weekly newsletter listing bitcoin meetups across the UK and Ireland.
 
-## Workflow
+This repo contains draft editions. Corrections and updates from meetup organisers are welcome.
 
-1. Each edition has a **draft file** in `drafts/` and a corresponding **GitHub Issue**
-2. Meetup organisers are invited as collaborators and can review the draft, raise Issues, or submit corrections
-3. When the draft is ready, Simon copy/pastes the content to Substack for publishing
-4. After publish, the draft is considered closed (no further changes unless a correction is needed)
-
-## Structure
-
-```
-meetup-breakdown/
-├── drafts/
-│   └── XX-YYYY-MM-DD.md   ← one file per edition
-├── references/
-│   ├── meetup-boilerplates/
-│   │   ├── walk.md
-│   │   ├── pub-meetup.md
-│   │   ├── coffee-morning.md
-│   │   ├── church-merchant.md
-│   │   └── one-off.md
-│   └── venue-notes.md
-└── README.md
-```
-
-## Issue Numbers
-
-Use the next sequential issue number. The current issue number is tracked in this README — update it after each edition is published.
-
-## Draft Format
-
-Every draft follows this header format:
-
-```markdown
-Issue XX — YYYY-MM-DD
 ---
 
-[Newsletter body]
-```
+## How Organisers Submit Changes
 
-## Adding a Meetup to the Newsletter
+### Option 1 — GitHub Issue (quickest)
 
-1. Check the Google Calendar (`bitcoineventsuk@gmail.com`) for upcoming events
-2. Fill in the draft using the appropriate boilerplate from `references/meetup-boilerplates/`
-3. Verify venue, time, and bitcoin-accepting status before publishing
-4. Flag any uncertain details in the GitHub Issue for organiser review
+If you're comfortable with GitHub, [open an Issue](https://github.com/Bitcoin-Events-UK/meetup-breakdown/issues/new/choose) and include:
 
-## Current Issue Number
+1. **Which meetup** — name and location
+2. **What needs changing** — e.g. time, venue, description, date
+3. **Your preferred wording** — the exact text you'd like to see
+4. **Your contact details** — so we can follow up if needed
 
-Update this after each edition is published:
-- **Current: 90** (as of 2026-04-11)
-- Next issue will be: 91
+That's it. Simon reviews all issues and merges the changes before publishing.
+
+---
+
+### Option 2 — Pull Request
+
+If you'd prefer to edit the draft directly:
+
+1. **Fork this repo**
+2. **Find the current draft** in the `drafts/` folder — named `XX-YYYY-MM-DD.md`
+3. **Make your change** using Markdown
+4. **Open a Pull Request** — describe what you changed and why
+
+Simon reviews all PRs before merging.
+
+---
+
+## What Can Be Changed?
+
+- Meetup time, date, or frequency
+- Venue name, address, or bitcoin-accepted status
+- Description or wording of your listing
+- New meetups to add
+- Mistakes or outdated information
+
+---
+
+## Questions?
+
+Open an Issue or contact Simon directly. All submissions are reviewed before publication.
